@@ -8,7 +8,7 @@
 
 Here's a walkthrough of implemented user story
 
-<img src= 'https://i.imgur.com/qsyBVuZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src="https://i.imgur.com/qsyBVuZ.gif" width=200><br>
 
 
 ### Required Features
