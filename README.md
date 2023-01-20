@@ -6,7 +6,9 @@
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/qsyBVuZ.gif" title="Video Walkthrough" width=200 alt="Video Walkthrough"><br>
+Here's a walkthrough of implemented user story
+
+<img src= 'https://i.imgur.com/qsyBVuZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 
 ### Required Features
