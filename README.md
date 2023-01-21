@@ -7,7 +7,8 @@
 ### App Walk-though
 
 Here's a walkthrough of implemented user story:
-<img src="https://i.imgur.com/qsyBVuZ.gif" width=350 alt="Demo GIF"><br>
+![Imgur](https://imgur.com/qsyBVuZ)
+
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
