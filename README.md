@@ -7,7 +7,7 @@
 ### App Walk-though
 
 Here's a walkthrough of implemented user story:
-![Imgur](https://imgur.com/qsyBVuZ)
+![Imgur](https://imgur.com/qsyBVuZ.gif)
 
 ### Required Features
 
