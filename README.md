@@ -8,7 +8,7 @@
 
 Here's a walkthrough of implemented user story:
 
-![](https://i.imgur.com/NTu6mO7.gif)
+![](https://i.imgur.com/11pbuNd.gif)
 
 ### Required Features
 
